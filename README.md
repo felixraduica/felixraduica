@@ -14,3 +14,4 @@
 | Blender 3D            |                    |                          |
 | MATLAB                |                    |                          |
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixraduica)](https://git.io/streak-stats)
