@@ -6,6 +6,8 @@
 ![Profile Cover](https://github.com/felixraduica/felixraduica/raw/master/cover-profile.png)
 
  
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
 | Software Tools        | Hardware Tools     | Framework                |
 | --------------------- | ------------------ | -------------------------|
 | Autodesk AutoCAD      | Creality Ender 3   | Product Development      |
