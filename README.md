@@ -3,6 +3,8 @@
 - 🌱 I’m currently pursuing a PhD in Industrial Engineering
 - 💞️ I’m looking to collaborate on bionic limb development
 
+![Profile Cover](https://github.com/felixraduica/felixraduica/raw/master/cover-profile.png)
+
  
 | Software Tools        | Hardware Tools     | Framework                |
 | --------------------- | ------------------ | -------------------------|
