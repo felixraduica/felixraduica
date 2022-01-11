@@ -10,14 +10,5 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
-| Software Tools        | Hardware Tools     | Framework                |
-| --------------------- | ------------------ | -------------------------|
-| Autodesk AutoCAD      | Creality Ender 3   | Product Development      |
-| Autodesk Inventor     | 3D Pen             | Design For Manufacturing |
-| Autodesk Fusion 360   | Digital Microscope | Design For Assembly      |
-| Ultimaker Cura        |                    |                          |
-| FreeCAD               |                    |                          |
-| Blender 3D            |                    |                          |
-| MATLAB                |                    |                          |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixraduica)](https://git.io/streak-stats)
