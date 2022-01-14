@@ -11,4 +11,3 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixraduica)](https://git.io/streak-stats)
